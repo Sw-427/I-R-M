@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "i-r-m:fetch"
   },
-  "repository": "https://github.com/atom/i-r-m",
+  "repository": "https://github.com/Sw-427/i-r-m",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
