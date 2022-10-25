@@ -1,0 +1,19 @@
+{
+  "name": "i-r-m",
+  "main": "./lib/i-r-m",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "i-r-m:fetch"
+  },
+  "repository": "https://github.com/atom/i-r-m",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.73.0"
+  }
+}

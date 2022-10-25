@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch i-r-m",
+        "command": "i-r-m:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "i-r-m",
+          "submenu": [
+            {
+              "label": "Fetch code",
+              "command": "i-r-m:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
